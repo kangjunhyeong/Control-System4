@@ -23,4 +23,4 @@ $G(s)=\frac{K(s+1)}{s^2}$
 
 $1+G(s)H(s)=1+\frac{K(s+1)}{s^2}$  
 
-$M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 5% $
+$M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 5\% $
