@@ -37,4 +37,7 @@ $s^2+2\zeta\omega_ns+\omega_n^2=0$
 
 $\omega_n^2=K, \ 2\zeta\omega_n=K$  
 
+$\sqrt{K}=1.38$  
+$K=1.9$
+
 
