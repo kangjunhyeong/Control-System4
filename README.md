@@ -54,4 +54,5 @@ $e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} s\frac{R(s)}{1+G(s)H(s)}=0$
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/2ea13542-8dac-404f-b6ad-01e4f905cd75)  
 (a)  
 $I=30Kgm^2, r(t)=1 (t>0), e_ss=0.01$  
-$T(s)=\frac{K_1K_2}{Is^2+K_1K_2K_3s+K_1K_2}
+$T(s)=\frac{K_1K_2}{s(Is+K_1K_2K_3s)}$  
+$e_ss=\lim_{{s \to 0}}sE(s)=\lim_{{s \to 0}}s(1-T(s))R(s)$
