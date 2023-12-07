@@ -67,7 +67,7 @@ $K=\zeta^2 \cdot 10^6$
 $M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 0.1$  
 $ln(e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}})=ln(0.1)$  
 $\-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}=-2.3$  
-$\zeta=0.6, K=600000$  
+$\zeta=0.6, K=360000$  
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/fbb7c57f-fa78-45df-80da-c99b9aa8008f)  
 (a)  
