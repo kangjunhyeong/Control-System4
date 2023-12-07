@@ -33,4 +33,8 @@ $zeta=0.69$
 
 이제 식을 사용하면  
 
-$s^2+2\zeta\omega_ns+\omega_n^2=0$
+$s^2+2\zeta\omega_ns+\omega_n^2=0$  
+
+$\omega_n^2=K, \ 2\zeta\omega_n=K$  
+
+
