@@ -61,3 +61,4 @@ $e_{ss}=\lim_{{s \to 0}}sE(s)=\lim_{{s \to 0}}s(1-T(s))R(s)=\lim_{{s \to 0}}\fra
 (b)  
 $Is^2+K_1K_2K_3s+K_1K_2=0, K_1K_2=K$  
 $s^2+0.0004Ks+0.04K=0$
+$s^2+2\zeta\omega_ns+\omega_n^2$
