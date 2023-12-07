@@ -11,4 +11,9 @@ $$E(s)=\frac{s+K_1}{s^2(s+K_1)+K}$$
 
 $$e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} \frac{s + K_1}{s(s + K_1) + K}=5$$  
 
-$$K_1=5K$$
+$$K_1=5K$$  
+
+![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/d409d11d-c925-4811-a485-e770a90e357d)  
+
+![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/d7fb5472-fcf8-4c8d-9f57-fd8582400f7c)  
+
