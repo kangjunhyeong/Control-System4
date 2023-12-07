@@ -50,6 +50,6 @@ $R(s)=\frac{1}{s^2}$
 $e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} s\frac{R(s)}{1+G(s)H(s)}=0$  
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/d5380bab-638b-4419-8195-04b90dc51584)  
-![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/3393e57a-47ff-48c4-83e6-f6e27ee70362)
+![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/1130130b-9b4d-4588-81ad-adbcf71904a3)
 
 
