@@ -77,5 +77,6 @@ $\zeta=0.6, K=360000$
 $R_a=L_a=J=b=K_m=K_b=1$  
 $G(s)=\frac{1}{(1+s)^2}$  
 $T(s)=\frac{(s+1)^2}{(s+1)^2+1}, R(s)=\frac{A}{s}$  
-$e_{ss}=\lim_{{s \to 0}}sE(s)=\lim_{{s \to 0}}s(1-T(s))R(s)=\lim_{{s \to 0}}\frac{A}{(s+1)^2+1}$
+$e_{ss}=\lim_{{s \to 0}}sE(s)=\lim_{{s \to 0}}s(1-T(s))R(s)=\lim_{{s \to 0}}\frac{A}{(s+1)^2+1}=\frac{A}{2}$  
 
+(c)  
