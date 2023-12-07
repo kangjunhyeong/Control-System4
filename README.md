@@ -3,7 +3,7 @@
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/ce4fb29a-e2dd-4522-9dfb-37a8414de6f3)
 
-$ E(s) = \frac{R(s)}{1 + G(s)} $  
+$\ E(s) = \frac{R(s)}{1 + G(s)} $  
 
 $R(s)=\frac{1}{s^2}$  
 
