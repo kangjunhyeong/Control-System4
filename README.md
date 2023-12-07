@@ -64,4 +64,6 @@ $s^2+0.0004Ks+0.04K=0$
 $s^2+2\zeta\omega_ns+\omega_n^2=0$  
 $2\zeta\omega_n=0.0004K, \omega_n^2=0.04K$  
 $K=\zeta \cdot 10^6$  
-$M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 0.1$ 
+$M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 0.1$  
+$ln(e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}})=ln(0.1)$  
+$\-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}=-2.3$  
