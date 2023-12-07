@@ -55,4 +55,5 @@ $e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} s\frac{R(s)}{1+G(s)H(s)}=0$
 (a)  
 $I=30Kgm^2, r(t)=1 (t>0), e_ss=0.01$  
 $G(s)=\frac{K_1K_2}{s(Is+K_1K_2K_3s)}$  
+$T(s)=\frac{K_1K_2}{s(Is+K_1K_2K_3s)+K_1K_2)}$  
 $e_ss=\lim_{{s \to 0}}sE(s)=\lim_{{s \to 0}}s(1-T(s))R(s)$
