@@ -21,4 +21,6 @@ $\tau_1=1, \tau_2=0, K=K_1K_2$
 
 $G(s)=\frac{K(s+1)}{s^2}$  
 
-$1+G(s)H(s)=1+\frac{K(s+1)}{s^2}$
+$1+G(s)H(s)=1+\frac{K(s+1)}{s^2}$  
+
+$M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 5\% $
