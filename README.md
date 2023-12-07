@@ -27,7 +27,7 @@ $M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 0.05$
 
 $ln(e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}})=ln(0.05)$  
 
-$\frac{-\zeta \pi}{\sqrt{1-\zeta^2}}}=-3$  
+$\-(frac{\zeta \pi}{\sqrt{1-\zeta^2}}})=-3$  
 
 $\zeta=0.69$  
 
