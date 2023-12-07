@@ -17,7 +17,7 @@ $K_1=5K$
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/d7fb5472-fcf8-4c8d-9f57-fd8582400f7c)  
 
-$\tau_1=1, \tau_2=0, K=K_1K_2$
+$\tau_1=1, \tau_2=0, K=K_1K_2$  
 
 $G(s)=\frac{K(s+1)}{s^2}$  
 
