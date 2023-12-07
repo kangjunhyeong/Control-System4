@@ -63,4 +63,4 @@ $Is^2+K_1K_2K_3s+K_1K_2=0, K_1K_2=K$
 $s^2+0.0004Ks+0.04K=0$  
 $s^2+2\zeta\omega_ns+\omega_n^2=0$  
 $2\zeta\omega_n=0.0004K, \omega_n^2=0.04K$  
-$K=\zeta * 10^6$
+$K=\zeta x 10^6$
