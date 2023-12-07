@@ -38,6 +38,8 @@ $s^2+2\zeta\omega_ns+\omega_n^2=0$
 $\omega_n^2=K, \ 2\zeta\omega_n=K$  
 
 $\sqrt{K}=1.38$  
-$K=1.9$
+$K=1.9$  
+$R(s)=\frac{1}{s}$  
+$e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} s\frac{R(s)}{1+G(s)H(s)}$  
 
 
