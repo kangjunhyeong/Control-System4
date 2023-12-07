@@ -73,6 +73,6 @@ $\zeta=0.6, K=360000$
 (a)  
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/4df3fd46-3963-410d-a3f4-13ba09ad144e)  
 (b)  
-
+$R_a=L_a=J=b=K_m=K_b=1$  
 
 
