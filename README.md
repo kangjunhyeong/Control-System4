@@ -17,6 +17,7 @@ $K_1=5K$
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/d7fb5472-fcf8-4c8d-9f57-fd8582400f7c)  
 
+(a)  
 $\tau_1=1, \tau_2=0, K=K_1K_2$  
 
 $G(s)=\frac{K(s+1)}{s^2}$  
@@ -39,6 +40,7 @@ $\omega_n^2=K, \ 2\zeta\omega_n=K$
 
 $\sqrt{K}=1.38$  
 $K=1.9$  
+(b)  
 계단입력일때  
 $R(s)=\frac{1}{s}$  
 $e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} s\frac{R(s)}{1+G(s)H(s)}=0$  
