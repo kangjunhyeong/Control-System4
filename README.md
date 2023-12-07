@@ -83,3 +83,8 @@ $e_{ss}=\lim_{{s \to 0}}sE(s)=\lim_{{s \to 0}}s(1-T(s))R(s)=\lim_{{s \to 0}}\fra
 $T(s)=\frac{1}{(s+1)^2+K_b}$  
 $M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 0.15$  
 $ln(e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}})=ln(0.15)$  
+$\zeta=0.5$ 
+$2\zeta\omega_n=2$  
+$\omega_n=2$  
+$\omega_n^2=1+K_b$  
+$K_b=3$
