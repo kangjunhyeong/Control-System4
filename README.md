@@ -26,3 +26,11 @@ $1+G(s)H(s)=1+\frac{K(s+1)}{s^2}$
 $M_p = e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}} \leq 0.05$  
 
 $ln(e^{-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}})=ln(0.05)$
+
+$-\frac{\zeta \pi}{\sqrt{1-\zeta^2}}}=-3$  
+
+$zeta=0.69$  
+
+이제 식을 사용하면  
+
+$s^2+2zeta*omega_n*s+omega_n^2=0$
