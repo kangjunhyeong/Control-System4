@@ -49,7 +49,8 @@ $e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} s\frac{R(s)}{1+G(s)H(s)}=0$
 $R(s)=\frac{1}{s^2}$  
 $e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} s\frac{R(s)}{1+G(s)H(s)}=0$  
 
-![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/d5380bab-638b-4419-8195-04b90dc51584)  
-![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/1130130b-9b4d-4588-81ad-adbcf71904a3)
-
-
+![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/14cf9375-dd7f-4254-b4b1-419f343f71ae)  
+![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/7951b8f7-9756-4842-94ec-0cc0de7215e3)  
+![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/2ea13542-8dac-404f-b6ad-01e4f905cd75)  
+(a)  
+$I=30Kgm^2, r(t)=1 (t>0)$  
