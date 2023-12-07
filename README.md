@@ -59,3 +59,5 @@ $T(s)=\frac{K_1K_2}{s(Is+K_1K_2K_3)+K_1K_2}$
 $e_{ss}=\lim_{{s \to 0}}sE(s)=\lim_{{s \to 0}}s(1-T(s))R(s)=\lim_{{s \to 0}}\frac{(Is+K_1K_2K_3)}{s(Is+K_1K_2K_3)+K_1K_2}=K_3=0.01m$  
 
 (b)  
+$Is^2+K_1K_2K_3s+K_1K_2=0, K_1K_2=K$  
+$s^2+0.0004Ks+0.04K=0$
