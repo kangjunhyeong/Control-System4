@@ -7,4 +7,6 @@ $$ E(s) = \frac{R(s)}{1 + G(s)} $$
 
 $$R(s)=\frac{1}{s^2}$$  
 
-$$E(s)=\frac{s+K_1}{s^2(s+K_1)+K)}$$  
+$$E(s)=\frac{s+K_1}{s^2(s+K_1)+K}$$  
+
+$$e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} \frac{s + k_1}{s(s + k_1) + k}$$
