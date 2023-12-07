@@ -3,15 +3,15 @@
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/ce4fb29a-e2dd-4522-9dfb-37a8414de6f3)
 
-$$ E(s) = \frac{R(s)}{1 + G(s)} $$  
+$ E(s) = \frac{R(s)}{1 + G(s)} $  
 
-$$R(s)=\frac{1}{s^2}$$  
+$R(s)=\frac{1}{s^2}$  
 
-$$E(s)=\frac{s+K_1}{s^2(s+K_1)+K}$$  
+$E(s)=\frac{s+K_1}{s^2(s+K_1)+K}$  
 
-$$e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} \frac{s + K_1}{s(s + K_1) + K}=5$$  
+$e_{ss} = \lim_{{s \to 0}} sE(s) = \lim_{{s \to 0}} \frac{s + K_1}{s(s + K_1) + K}=5$  
 
-$$K_1=5K$$  
+$K_1=5K$  
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/d409d11d-c925-4811-a485-e770a90e357d)  
 
