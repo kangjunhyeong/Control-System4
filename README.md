@@ -71,5 +71,8 @@ $\zeta=0.6, K=600000$
 
 ![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/fbb7c57f-fa78-45df-80da-c99b9aa8008f)  
 (a)  
+![image](https://github.com/kangjunhyeong/Control-System4/assets/144297425/4df3fd46-3963-410d-a3f4-13ba09ad144e)  
+(b)  
+
 
 
